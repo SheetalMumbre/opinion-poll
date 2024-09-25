@@ -1,0 +1,17 @@
+[
+    {
+        "pollId": 1,
+        "question": "How you feel today?",
+        "answers": ["Brilliant! I have so much energy","Always can be worse","Please, end my misery"]
+    },
+    {
+        "pollId": 2,
+        "question": "How you like the Opinary test?",
+        "answers": ["It was great and so challenging","Not bad, but you can improve","It was a nightmare, never again."] 
+    },
+    {
+        "pollId": 3,
+        "question": "Which fruit do you like the most?",
+        "answers": ["Banana","Mango","Strawberry"] 
+    }
+]

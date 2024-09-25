@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+
+.opinion-poll{
+    max-width:400px;
+    margin: 0 10px;
+    width: 100%;
+}
+
+h1{
+    color: #F9A524;
+}
